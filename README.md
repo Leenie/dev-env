@@ -1,5 +1,8 @@
 # dev-env: Install all the things!
 
+### Installation guide
+https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
+
 ### Brew
 
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
