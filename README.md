@@ -24,7 +24,7 @@ Things installed via brew:
 Things installed with brew cask:
 * caffeine
 * spotify
-* 
+* kubetail
 
 ## Zsh
 
