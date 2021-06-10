@@ -1,13 +1,13 @@
 # dev-env: Install all the things!
 
-### Installation guide for zsh
+## Installation guide for zsh
 * [zsh](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
 
-### Brew
+## Brew
 
 * ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
-### Zsh
+## Zsh
 
 **Guides:**
 [The Ultimate Guide To Your Terminal](https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99)
@@ -32,25 +32,25 @@
 * [spaceship](https://github.com/pascaldevink/spaceship-zsh-theme)
 * [starship](https://starship.rs/)
  
-### Vimrc 
+## Vimrc 
 
-### Docker Desktop
+## Docker Desktop
 
-### kind
+## kind
 
-### minikube
+## minikube
 
-### Terraform
+## Terraform
 - tfenv
 - 
 
-### iTerm2
+## iTerm2
 
 Theme:
 * [Galaxy](https://github.com/jglovier/galaxy-theme-iterm)
 * [clovis-iterm2-color-theme](https://gist.github.com/Leenie/fd1888924a79a3546936690adf789b20)
 
-### VSCode
+## VSCode
 **Extensions:**
 - Tabnine AI Code Completion for all major programming languages
 - Go
