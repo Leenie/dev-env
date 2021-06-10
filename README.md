@@ -16,6 +16,13 @@ Things installed via brew:
 * terraform
 * jq
 * yq
+* yamllint
+* tree
+* stern
+
+Things installed with brew cask:
+* caffeine
+* spotify
 * 
 
 ## Zsh
