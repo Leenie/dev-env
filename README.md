@@ -27,7 +27,8 @@
 **zsh-highlighting**
 [install link](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 
-**Themes**
+**Themes**:
+
 [spaceship](https://github.com/pascaldevink/spaceship-zsh-theme)
 
  
