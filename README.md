@@ -7,6 +7,12 @@
 
 * ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
+Things installed via brew:
+* bash-completion
+* thefuck
+* zsh-syntax-highlighting
+* 
+
 ## Zsh
 
 **Guides:**
@@ -89,6 +95,8 @@ Synthwave
 ## kafka
 
 ## GCP
+
+## Autocompletion
 
 ### Font
 powerfont? 
