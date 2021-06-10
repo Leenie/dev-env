@@ -30,6 +30,11 @@
 * colored-man-pages
 * docker
 * golang
+* history
+* minikube
+* thefuck
+* terraform
+* vault
 
 **zsh-highlighting**
 [install link](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
@@ -63,6 +68,9 @@ Theme:
 - Go
 - Terraform
 
+Add the following to your `zshrc`:  
+```code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}```
+
 **Themes:**
 Fairfloss
 Synthwave
@@ -74,6 +82,10 @@ Synthwave
 ## kubectl
 
 ##
+
+## kafka
+
+## GCP
 
 ### Font
 powerfont? 
