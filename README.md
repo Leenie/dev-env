@@ -72,6 +72,9 @@ Things installed via brew:
 
 ## iTerm2
 
+Removing last login:  
+```touch .hushlogin```
+
 Theme:
 * [Galaxy](https://github.com/jglovier/galaxy-theme-iterm)
 * [clovis-iterm2-color-theme](https://gist.github.com/Leenie/fd1888924a79a3546936690adf789b20)
