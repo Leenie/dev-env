@@ -20,7 +20,7 @@ Things installed via brew:
 * tree
 * stern
 * kubectx (comes with kubens)
-* kafka (need to install openjdk@11 first)
+* kafka (need to install openjdk@11 first) 
 
 Things installed with brew cask:
 * caffeine
@@ -111,6 +111,8 @@ Synthwave
 ##
 
 ## kafka
+
+[Single-node kafka broker](https://codingnconcepts.com/post/apache-kafka-installation/)
 
 ## GCP
 
