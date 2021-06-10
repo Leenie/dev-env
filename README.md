@@ -1,7 +1,7 @@
 # dev-env: Install all the things!
 
 ### Installation guide for zsh
-https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
+[zsh](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
 
 ### Brew
 
@@ -10,7 +10,7 @@ https://sourabhbajaj.com/mac-setup/iTerm/zsh.html
 ### Zsh
 
 **Guides:**
-https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99
+[The Ultimate Guide To Your Terminal](https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99)
 
 **Oh-my zsh installation:**
 
