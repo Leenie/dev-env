@@ -12,6 +12,9 @@
 **Guides:**
 [The Ultimate Guide To Your Terminal](https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f9b87ac99)
 
+**Awesome Zsh Plugins:**  
+[link](https://github.com/unixorn/awesome-zsh-plugins)
+
 **Oh-my zsh installation:**
 
 * ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
