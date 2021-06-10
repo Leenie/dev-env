@@ -33,7 +33,7 @@
 * [starship](https://starship.rs/)
  
 ## Vimrc 
-
+[The Ultimate Vimrc](https://github.com/amix/vimrc)
 ## Docker Desktop
 
 ## kind
