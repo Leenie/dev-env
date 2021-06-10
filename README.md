@@ -17,7 +17,7 @@ https://towardsdatascience.com/the-ultimate-guide-to-your-terminal-makeover-e11f
 ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
 
 **Fixing zsh Insecure completion-dependent directories detected:**
-[link](https://github.com/ohmyzsh/ohmyzsh/issues/6835#issuecomment-390187157_
+[link](https://github.com/ohmyzsh/ohmyzsh/issues/6835#issuecomment-390187157)
 
 **Plugins:**
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
