@@ -20,11 +20,12 @@ Things installed via brew:
 * tree
 * stern
 * kubectx (comes with kubens)
+* kafka (need to install openjdk@11 first)
 
 Things installed with brew cask:
 * caffeine
 * spotify
-* kubetail
+* kubetail (need to do this first: `brew tap johanhaleby/kubetail`) 
 
 ## Zsh
 
