@@ -1,11 +1,11 @@
 # dev-env: Install all the things!
 
 ### Installation guide for zsh
-[zsh](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
+* [zsh](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
 
 ### Brew
 
-```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
+* ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
 ### Zsh
 
@@ -14,23 +14,23 @@
 
 **Oh-my zsh installation:**
 
-```sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
+* ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"```
 
 **Fixing zsh Insecure completion-dependent directories detected:**
 [link](https://github.com/ohmyzsh/ohmyzsh/issues/6835#issuecomment-390187157)
 
 **Plugins:**
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-- [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+* [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+* [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
 
 **zsh-highlighting**
 [install link](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 
 **Themes**:
 
-[spaceship](https://github.com/pascaldevink/spaceship-zsh-theme)
-[starship](https://starship.rs/)
+*[spaceship](https://github.com/pascaldevink/spaceship-zsh-theme)
+*[starship](https://starship.rs/)
  
 ### Vimrc 
 
@@ -47,8 +47,8 @@
 ### iTerm2
 
 Theme:
-[Galaxy](https://github.com/jglovier/galaxy-theme-iterm)
-[clovis-iterm2-color-theme](https://gist.github.com/Leenie/fd1888924a79a3546936690adf789b20)
+* [Galaxy](https://github.com/jglovier/galaxy-theme-iterm)
+* [clovis-iterm2-color-theme](https://gist.github.com/Leenie/fd1888924a79a3546936690adf789b20)
 
 ### VSCode
 **Extensions:**
