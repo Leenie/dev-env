@@ -67,6 +67,13 @@ Theme:
 Fairfloss
 Synthwave
 
+## Go
+
+## Docker CLI
+
+## kubectl
+
+##
 
 ### Font
 powerfont? 
