@@ -30,7 +30,7 @@
 **Themes**:
 
 [spaceship](https://github.com/pascaldevink/spaceship-zsh-theme)
-
+[starship](https://starship.rs/)
  
 ### Vimrc 
 
