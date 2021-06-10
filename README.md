@@ -18,6 +18,7 @@ Things installed via brew:
 * yq
 * yamllint
 * tree
+* prettyping
 * stern
 * kubectx (comes with kubens)
 * kafka (need to install openjdk@11 first) 
@@ -117,6 +118,11 @@ Synthwave
 ## GCP
 
 ## Autocompletion
+
+## aliases
+* ping
+* kubectl 
+
 
 ### Font
 powerfont? 
