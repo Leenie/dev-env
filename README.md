@@ -20,9 +20,16 @@
 [link](https://github.com/ohmyzsh/ohmyzsh/issues/6835#issuecomment-390187157)
 
 **Plugins:**
+* list of [plugins](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/)
+
+
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 * [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt)
+* brew
+* colored-man-pages
+* docker
+* golang
 
 **zsh-highlighting**
 [install link](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
