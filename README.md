@@ -68,7 +68,7 @@ Theme:
 - Go
 - Terraform
 
-Add the following to your `zshrc`:  
+Add the following to your **`~/.zshrc`**:  
 ```code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}```
 
 **Themes:**
