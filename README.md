@@ -19,6 +19,7 @@ Things installed via brew:
 * yamllint
 * tree
 * stern
+* kubectx (comes with kubens)
 
 Things installed with brew cask:
 * caffeine
