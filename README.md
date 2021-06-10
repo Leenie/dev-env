@@ -11,6 +11,11 @@ Things installed via brew:
 * bash-completion
 * thefuck
 * zsh-syntax-highlighting
+* docker-completion
+* kubectl
+* terraform
+* jq
+* yq
 * 
 
 ## Zsh
@@ -85,6 +90,7 @@ Fairfloss
 Synthwave
 
 ## Go
+[Setting up](https://jimkang.medium.com/install-go-on-mac-with-homebrew-5fa421fc55f5)
 
 ## Docker CLI
 
