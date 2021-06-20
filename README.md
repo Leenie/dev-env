@@ -7,7 +7,7 @@
 
 * ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
-Things installed via brew:
+Things installed:
 * bash-completion
 * thefuck
 * zsh-syntax-highlighting
