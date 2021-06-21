@@ -21,7 +21,8 @@ Things installed:
 * prettyping
 * stern
 * kubectx (comes with kubens)
-* kafka (need to install openjdk@11 first) 
+* kafka (need to install openjdk@11 first)
+* minikube
 
 Things installed with brew cask:
 * caffeine
