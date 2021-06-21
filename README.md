@@ -26,6 +26,8 @@ Things installed:
 
 Things installed with brew cask:
 * caffeine
+* vagrant
+* virtualbox
 * spotify
 * kubetail (need to do this first: `brew tap johanhaleby/kubetail`) 
 
