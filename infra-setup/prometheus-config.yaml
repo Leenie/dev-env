@@ -18,6 +18,32 @@ data:
     # default named port `https`. This works for single API server deployments as
     # well as HA API server deployments.
     scrape_configs:
+    - job_name: 'gce-instances'
+    gce_sd_configs:
+      - project: staging-159316
+        port: 9100
+        zone: europe-west1-b
+        filter: labels.goog-gke-node eq ''
+      - project: staging-159316
+        port: 9100
+        zone: europe-west1-c
+        filter: labels.goog-gke-node eq ''
+      - project: staging-159316
+        port: 9100
+        zone: europe-west1-d
+        filter: labels.goog-gke-node eq ''
+      - project: staging-159316
+        port: 9100
+        zone: europe-west1-b
+        filter: labels.perm-monitoring eq true
+      - project: staging-159316
+        port: 9100
+        zone: europe-west1-c
+        filter: labels.perm-monitoring eq true
+      - project: staging-159316
+        port: 9100
+        zone: europe-west1-d
+        filter: labels.perm-monitoring eq true
     - job_name: 'kubernetes-apiservers'
       kubernetes_sd_configs:
       - role: endpoints
