@@ -1,4 +1,4 @@
-# dev-env: Install all the things!
+# dev-env: Installations and Various Setup
 
 ## Installation guide for zsh
 * [zsh](https://sourabhbajaj.com/mac-setup/iTerm/zsh.html)
