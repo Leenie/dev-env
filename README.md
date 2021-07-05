@@ -50,15 +50,10 @@
  
 ## Vimrc 
 [The Ultimate Vimrc](https://github.com/amix/vimrc)
-## Docker Desktop
-
-## kind
-
-## minikube
 
 ## Terraform
 - tfenv
-- 
+
 
 ## iTerm2
 
@@ -85,19 +80,11 @@ Synthwave
 ## Go
 [Setting up](https://jimkang.medium.com/install-go-on-mac-with-homebrew-5fa421fc55f5)
 
-## Docker CLI
-
-## kubectl
-
-##
 
 ## kafka
 
 [Single-node kafka broker](https://codingnconcepts.com/post/apache-kafka-installation/)
 
-## GCP
-
-## Autocompletion
 
 ## aliases
 * ping
