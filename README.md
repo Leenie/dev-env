@@ -7,29 +7,6 @@
 
 * ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"```
 
-Things installed:
-* bash-completion
-* thefuck
-* zsh-syntax-highlighting
-* docker-completion
-* kubectl
-* terraform
-* jq
-* yq
-* yamllint
-* tree
-* prettyping
-* stern
-* kubectx (comes with kubens)
-* kafka (need to install openjdk@11 first)
-* minikube
-
-Things installed with brew cask:
-* caffeine
-* vagrant
-* virtualbox
-* spotify
-* kubetail (need to do this first: `brew tap johanhaleby/kubetail`) 
 
 ## Zsh
 
